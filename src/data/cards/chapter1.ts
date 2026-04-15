@@ -22,7 +22,7 @@ export const chapter1Cards: CardDef[] = [
   },
   {
     id: 'guard',
-    name: '排中律护盾',
+    name: '排中律',
     cost: 1,
     type: 'skill',
     description: '建立 6 点逻辑防御。非真即假，没有中间地带。',
@@ -59,7 +59,7 @@ export const chapter1Cards: CardDef[] = [
   },
   {
     id: 'triangle-stability',
-    name: '三角形稳定性',
+    name: '稳定三角',
     cost: 1,
     type: 'power',
     description: '回合开始时，若当前命题集数量为 3 的倍数，获得 6 点逻辑防御。',

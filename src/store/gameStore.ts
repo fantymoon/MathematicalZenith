@@ -150,7 +150,6 @@ export function makeChapterLore(chapterId: 'chapter1' | 'chapter2' | 'chapter3' 
       title: chapterConfig.title,
       summary: chapterConfig.historicalBackground,
       conceptNote: chapterConfig.subtitle,
-      historyNote: chapterConfig.historicalBackground,
       tags: ['章节背景'],
     },
   };

@@ -130,7 +130,7 @@ export interface LoreEntry {
   title: string;
   summary: string;
   conceptNote: string;
-  historyNote: string;
+  historyNote?: string;
   tags?: string[];
   links?: LoreLink[];
 }
