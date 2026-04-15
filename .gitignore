@@ -1,0 +1,20 @@
+# IDE
+.claude/
+.trae/
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+tsconfig.node.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+.design/
