@@ -1,4 +1,4 @@
-# 数学之巅 MathematicalZenith
+# 数学之巅 Mathematical Tower
 
 > **纯人机代码，100%AI添加。**
 > 
